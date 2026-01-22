@@ -1,0 +1,9 @@
+/* TEAM */
+Author: Michal Ferber
+Site: https://michalferber.dev
+Twitter: @MichalAFerber
+GitHub: @MichalAFerber
+
+/* SITE */
+Last update: 2026/01/19
+Software: Jekyll, Just the Docs

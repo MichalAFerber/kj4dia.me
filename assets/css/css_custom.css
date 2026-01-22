@@ -1,0 +1,8 @@
+.icon-heart {
+  background-image: url('https://assets.michalferber.me/svg/heart.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+}

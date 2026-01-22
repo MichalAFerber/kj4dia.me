@@ -1,0 +1,62 @@
+title: "KJ4DIA | Michal Ferber"
+description: "Amateur Radio - Technician Class License"
+url: "https://kj4dia.me"
+remote_theme: just-the-docs/just-the-docs
+logo: "/assets/images/kj4dia_logo.png"
+favicon_ico: "/assets/favicon/favicon.ico"
+author: Michal Ferber
+
+# Aux links for the upper right navigation
+aux_links:
+  "Blog":
+    - "//michalferber.me"
+  "GitHub":
+    - "//github.com/MichalAFerber"
+
+# Makes Aux links open in a new tab
+aux_links_new_tab: true
+heading_anchors: true
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/MichalAFerber/kj4dia.me"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
+# Google Analytics Tracking (optional)
+# Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
+# ga_tracking: G-YSZHX35LMK
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-include-cache
+  - jekyll-sitemap
+
+# Exclude build files and scripts
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - node_modules/
+#  - import_docs.rb
+
+# Force inclusion of files/folders that start with a dot
+include:
+  - .well-known
+
+# Theme settings
+# color_scheme: nil
+
+sass:
+  style: compressed
+  quiet: true

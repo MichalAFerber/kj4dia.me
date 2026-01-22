@@ -1,0 +1,3 @@
+Contact: mailto:michal@techguywithabeard.com
+Preferred-Languages: en
+Canonical: https://ky4dia.me/.well-known/security.txt
