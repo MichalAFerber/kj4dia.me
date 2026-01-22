@@ -14,3 +14,7 @@ Radios have been my passion since I joined the [Civil Air Patrol](https://www.go
 
 - [Documents](/documents) - Professional certifications and licenses
 - [Links](/links) - Amateur radio and emergency communications resources
+
+---
+
+<a href="https://www.buymeacoffee.com/TechGuyWithABeard" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
